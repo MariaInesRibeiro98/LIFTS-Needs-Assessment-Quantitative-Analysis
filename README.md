@@ -49,9 +49,6 @@ If you use this code or findings in your research, please cite:
 
 > [Citation will be added once the article is published]
 
-## License
-
-[License information to be added]
 
 ## Contact
 
