@@ -1,6 +1,6 @@
 # LIFTS Needs Assessment: Quantitative Analysis
 
-[![DOI](https://zenodo.org/badge/1109878169.svg)](https://doi.org/10.5281/zenodo.17815077)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17815230.svg)](https://doi.org/10.5281/zenodo.17815230)
 
 
 This repository contains the quantitative analysis code and scripts of the LIFTS Needs Assessment study. The analysis focuses on structuring and validation of physical activity (PA) determinants identified through participatory research with adolescents with mild intellectual disability in Dutch practical education schools.
@@ -54,6 +54,6 @@ Data files are not included in this repository (excluded via `.gitignore`). The 
 
 If you use this code or findings in your research, please cite:
 
-Maria Inês Ribeiro et al., (2025) LIFTS Needs Assessment: Quantitative Analysis. Zenodo. https://doi.org/10.5281/zenodo.17815077  
+Maria Inês Ribeiro et al., (2025) LIFTS Needs Assessment: Quantitative Analysis. Zenodo. https://doi.org/10.5281/zenodo.17815230  
 
 
