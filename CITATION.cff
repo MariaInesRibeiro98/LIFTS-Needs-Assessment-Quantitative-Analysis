@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Maria Inês, Daniëlla, Monique, Laura, Pieter
+  given-names: Ribeiro, van Uden, Simons, Genga, Van Gorp
+title: LIFTS-Needs-Assessment-Quantitative-Analysis
+version: v1.0.1
+date-released: 2025-12-04
