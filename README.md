@@ -43,6 +43,10 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
+## Data Availability
+
+Data files are not included in this repository (excluded via `.gitignore`). The underlying data can be made available upon reasonable request to the corresponding author.
+
 ## Citation
 
 If you use this code or findings in your research, please cite:
