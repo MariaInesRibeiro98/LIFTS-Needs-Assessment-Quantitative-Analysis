@@ -50,7 +50,3 @@ If you use this code or findings in your research, please cite:
 > [Citation will be added once the article is published]
 
 
-## Contact
-
-For questions about this repository or the LIFTS project, please contact [contact information to be added].
-
